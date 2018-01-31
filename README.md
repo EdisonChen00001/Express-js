@@ -1,2 +1,2 @@
 # jQuery-Notebook
-All of information about jQuery knowledge during working
+All of notes come from jQuery knowledge during work experience
